@@ -1,0 +1,3 @@
+// {"author":"jvde-github, Taxom","description":"add option to look up vessel details in Myshiptracking"}
+
+addShipcardItem('fa-solid fa-y','Myshiptracking','Lookup vessel on Myshiptracking',' window.open("https://www.myshiptracking.com/?mmsi=" + card_mmsi)');
